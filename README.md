@@ -8,7 +8,7 @@ Given the height and width of the desired gate along with a few other parameters
   
 This generates three kinds of pieces  
 - Corner (print 4 of these)  
-- Cross Pieces (print 2)  
+- Tees (for a middle, vertical support) (print 2)  
 - Center (print 1)  
   
 It also generates a test piece which can be used for getting the hole sizes just right before printing the hole thing.   The test piece also has two bolt holes which I used as a pattern for drilling holes to mount u-bolts on one side to act as a hinge.  
