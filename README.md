@@ -1,5 +1,7 @@
 # ParametricGate
   
+ ![gate](gate.jpg)
+ 
 This is a parametric gate for a small fence.  
   
 Given the height and width of the desired gate along with a few other parameters this will generate end and center pieces which can be used to form a gate from pipes. I made mine with 1/2" metal conduit pipes. The angles for the pipe holes are calculated so they will come together at the correct distances.  
@@ -21,4 +23,4 @@ I designed the center piece with holes that go all the way through. The idea was
   
 I may also add an option to omit the vertical support and/or one of the diagonal supports for smaller gates.  
 
-![hinge](gate_attach.jpg) ![gate](gate.jpg)
+![hinge](gate_attach.jpg)
