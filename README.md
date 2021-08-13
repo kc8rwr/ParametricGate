@@ -23,4 +23,8 @@ I designed the center piece with holes that go all the way through. The idea was
   
 I may also add an option to omit the vertical support and/or one of the diagonal supports for smaller gates.  
 
+To keep our small dog from walking through I zip-tied fencing material to the gate. I am considering better options for attaching this which may or may not include more 3d printed pieces.  
+  
+I printed these in ABS and painted them to protect them from UV light. I would not recommend trying this in PLA in warm environments as it may go soft on a hot summer day. I have not tried PET-G, that may work as well.  
+
 ![hinge](gate_attach.jpg)
